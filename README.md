@@ -11,4 +11,3 @@
 ㅇㄹㅈㄷㄹㅇㄴ
 ㅎㅈㅎ
 ````
-![Uploading image.png…]()
