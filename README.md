@@ -9,9 +9,5 @@
 ```python
 print("안녕하세요")
 
-
-| 이름 | 나이 | 직업     |
-|------|------|----------|
-| 영희 | 25   | 디자이너 |
-| 철수 | 30   | 개발자   |
+![image](https://github.com/user-attachments/assets/19f384e4-7218-48c8-87c2-6b9d942e3c04)
 
