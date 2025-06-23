@@ -19,6 +19,7 @@
 
 # Colab 연습 (pthon 구문)
 📌 github 보내기--> 파일 - > Github로 사본 저장
+📌W3school -> python 예제 구문 사이트
 
 
 ![image](https://github.com/user-attachments/assets/b6fa1990-761a-4d20-afcf-55fc3a0e109a)
